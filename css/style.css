@@ -11,14 +11,19 @@ img {
     max-width: 100%;
 }
 
-/* .ms_bg_green {
+.ms_bg_green {
     background-color: #1abc9c;
-    width: 100%;
-} */
+}
+
+.ms_box_avatar {
+    width: 50%;
+    margin: auto;
+}
 
 .ms_container {
-    border-radius: 10px;
-    width: 100%;
+    width: 70%;
+    flex-direction: column;
+    margin: auto;
 }
 
 .ms_bg_footer_top {
