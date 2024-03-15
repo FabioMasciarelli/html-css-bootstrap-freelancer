@@ -15,9 +15,8 @@ img {
     background-color: #1abc9c;
 }
 
-.ms_box_avatar {
-    width: 50%;
-    margin: auto;
+.ms_avatar_img {
+    max-width: 300px;
 }
 
 .ms_container {
